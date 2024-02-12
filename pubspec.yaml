@@ -1,5 +1,5 @@
 name: custom_carousel_app_journey
-description: "A new Flutter project."
+description: This is useful to create a custom carousel package. By using this package you can create a custom carousel with a custom indicator, custom item, and custom animation.
 version: 0.0.1
 homepage: https://github.com/noorj-in/custom_carousel_app_journey/tree/master
 
