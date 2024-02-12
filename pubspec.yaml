@@ -1,13 +1,14 @@
 name: custom_carousel_app_journey
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/noorj-in/custom_carousel_app_journey/tree/master
 
 environment:
   sdk: '>=3.2.2 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
+  extended_image: ^8.2.0
   flutter:
     sdk: flutter
 
