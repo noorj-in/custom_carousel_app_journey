@@ -1,5 +1,4 @@
 import 'package:custom_carousel_app_journey/src/custom_carousel_app_journey.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class CarouselOptions {
