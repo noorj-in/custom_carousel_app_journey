@@ -127,14 +127,19 @@ class _CustomCarouselAppJourneyState extends State<CustomCarouselAppJourney> {
                     });
                   },
                   child: Container(
-                    width: 8.0,
+                    width: index == entry.key ? 16.0 : 10.0,
                     height: 9.0,
                     margin: const EdgeInsets.symmetric(
                       vertical: 8.0,
                       horizontal: 4.0,
                     ),
                     decoration: BoxDecoration(
-                      shape: BoxShape.circle,
+                      borderRadius: index == entry.key
+                          ? BorderRadius.circular(8.0)
+                          : null,
+                      shape: index == entry.key
+                          ? BoxShape.rectangle
+                          : BoxShape.circle,
                       color: index == entry.key
                           ? (widget.carouselOptions.indicatorColor)
                           : Colors.grey.withOpacity(0.8),
