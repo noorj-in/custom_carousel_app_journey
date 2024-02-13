@@ -1,6 +1,5 @@
 import 'package:custom_carousel_app_journey/src/app_journey.dart';
 import 'package:custom_carousel_app_journey/src/carousel_options.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

@@ -1,7 +1,7 @@
 name: custom_carousel_app_journey
-description: This is useful to create a custom carousel package. By using this package you can create a custom carousel with a custom indicator, custom item, and custom animation.
+description: This is useful to create a custom carousel package. By using this package you can create a custom carousel with a custom navigation buttons, custom items, and custom animations.
 version: 0.0.1
-homepage: https://github.com/noorj-in/custom_carousel_app_journey/tree/master
+homepage: https://github.com/noorj-in/custom_carousel_app_journey
 
 environment:
   sdk: '>=3.2.2 <4.0.0'
@@ -15,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.1
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

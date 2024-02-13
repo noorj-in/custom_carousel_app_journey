@@ -53,6 +53,7 @@ import 'package:custom_carousel_app_journey/custom_carousel_app_journey.dart';
 ```
 
 ```dart
+
 CustomCarouselAppJourney(
   slides: const [
     AppJourney(
@@ -91,6 +92,7 @@ arrow_back_ios' and 'arrow_forward_ios' icons.
 ## Carousel Options
 
 ```dart
+
 CarouselOptions(
   imageHeight: 200.0,
   titleFontSize: 20.0,
@@ -111,6 +113,6 @@ Custom Carousel App Journey is a versatile package that can be used in a variety
 experience. Whether you want to introduce new users to your app or highlight the key features of your application, this
 package provides a simple and effective way to do so. For more information on how to use the package, refer to the
 [online documentation](https://pub.dev/packages/custom_carousel_app_journey). If you have any questions, suggestions, or
-feedback, feel free to reach out to the package authors or file an issue [issue_tracker](https://github.com/noorj-in/custom_carousel_app_journey/issues) on the package’s GitHub repository.
+feedback, feel free to reach out to the package authors or file an issue [issues tracker](https://github.com/noorj-in/custom_carousel_app_journey/issues) on the package’s GitHub repository.
 
 
