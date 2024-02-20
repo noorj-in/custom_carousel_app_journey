@@ -61,7 +61,5 @@ void main() {
     expect(textFinder, findsNWidgets(3));
     final iconFinder = find.byIcon(Icons.arrow_forward);
     expect(iconFinder, findsOneWidget);
-
   });
-
 }

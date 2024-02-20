@@ -1,7 +1,5 @@
 import 'package:custom_carousel_app_journey/custom_carousel_app_journey.dart';
 import 'package:flutter/material.dart';
-import 'package:custom_carousel_app_journey/src/app_journey.dart';
-import 'package:custom_carousel_app_journey/src/carousel_options.dart';
 
 void main() {
   runApp(const MyApp());

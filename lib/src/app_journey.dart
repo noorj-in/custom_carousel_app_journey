@@ -1,5 +1,4 @@
 class AppJourney {
-
   /// this class is used to store the data of the journey
   /// it has three properties
   /// image, title and description

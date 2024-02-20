@@ -1,12 +1,12 @@
 name: custom_carousel_app_journey
 description: This is useful to create a custom carousel package. By using this package you can create a custom carousel with a custom navigation buttons, custom items, and custom animations.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/noorj-in/custom_carousel_app_journey
 repository: https://github.com/noorj-in/custom_carousel_app_journey
 
 environment:
-  sdk: '>=3.2.2 <4.0.0'
-  flutter: ">=1.17.0"
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.16.0'
 
 dependencies:
   extended_image: ^8.2.0
